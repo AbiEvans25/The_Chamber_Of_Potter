@@ -1,6 +1,11 @@
-h1 {
-   position: absolute;
-   top: 200px;
-   left: 0;
-   width: 100%;
+body {
+    background:url(hogwarts..jpg) no repeat;
+    background-size: cover;
+    font-family: arial;
+    color:white;
+}
+ul {
+    margin:0px;
+    padding:0px;
+    list-style:none;
 }
